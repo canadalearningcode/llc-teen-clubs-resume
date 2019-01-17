@@ -1,5 +1,5 @@
-#Ladies Learning Code
-##Teen Clubs Resume Building
+# Ladies Learning Code
+## Teen Clubs Resume Building
 
 This workshop covers HTML and CSS basics, and github pages hosting. It is a code-along to teach our teen club members how to customize and get their resume live really quickly.
 
